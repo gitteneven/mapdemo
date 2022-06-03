@@ -1,3 +1,5 @@
+import {Style, Fill, Stroke} from 'ol/style';
+
 let userLat;
 let userLong;
 
